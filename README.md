@@ -11,8 +11,8 @@ une interprétation différente pour les enfants et les adolescents
 
 ### Présentation en images:
 
-![screenshot1](screenshots/screenshot1.jpg)
-![screenshot2](screenshots/screenshot2.jpg)
+![screenshot1](screenshots/screenshot1.png)
+![screenshot2](screenshots/screenshot2.png)
 
 
 
